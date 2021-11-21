@@ -71,9 +71,9 @@
 
 ---
 ### Github Stats:
-<img align="left" alt="Nktech Github Stats" src="https://github-readme-stats.vercel.app/api?username=nktech-official&show_icons=true&hide_border=false&title_color=fff&icon_color=79ff97&%20text_color=white&bg_color=0d1117" />
+<img align="left" alt="Nktech Github Stats" src="https://github-readme-stats.vercel.app/api?username=nktech-official&show_icons=true&hide_border=false&title_color=fff&icon_color=79ff97&%20text_color=white&bg_color=transparent" />
 
-<img align="left" alt="Nktech Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nktech-official&show_icons=true&hide_border=false&title_color=fff&icon_color=79ff97&%20text_color=white&bg_color=0d1117" />
+<img align="left" alt="Nktech Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nktech-official&show_icons=true&hide_border=false&title_color=fff&icon_color=79ff97&%20text_color=white&bg_color=transparent" />
 
 
 [website]: https://www.nktechnicals.ml
