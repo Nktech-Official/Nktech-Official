@@ -19,13 +19,13 @@
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | YouTube" width="30px" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" />][youtube]
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://www.logo.wine/a/logo/Twitter/Twitter-Logo.wine.svg" />][twitter]
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" />][linkedin]
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />][instagram]
 
 <br />
 
@@ -71,9 +71,9 @@
 
 ---
 ### Github Stats:
-<img align="left" alt="Nktech Github Stats" src="https://github-readme-stats.vercel.app/api?username=nktech-official&show_icons=true&hide_border=false&title_color=fff&icon_color=79ff97&%20text_color=white&bg_color=0d1117" />
+<img align="left" alt="Nktech Github Stats" src="https://github-readme-stats.vercel.app/api?username=nktech-official&show_icons=true&hide_border=false&title_color=green&icon_color=79ff97&%20text_color=green&bg_color=transparent" />
 
-<img align="left" alt="Nktech Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nktech-official&show_icons=true&hide_border=false&title_color=fff&icon_color=79ff97&%20text_color=white&bg_color=0d1117" />
+<img align="left" alt="Nktech Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nktech-official&show_icons=true&hide_border=false&title_color=green&icon_color=79ff97&%20text_color=green&bg_color=transparent" />
 
 
 [website]: https://www.nktechnicals.ml
