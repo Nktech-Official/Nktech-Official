@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Web-Development.
 - 👯 I’m looking to collaborate with other Open Source Developer's and organizations.
 - ⚡ Fun fact: I love to Code , Sleep and Develop. 
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects and Start New Open Source Projects.
 <!-- - 💞️ I’m currently working on  . -->
 
 
