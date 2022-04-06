@@ -1,7 +1,7 @@
 ### Hi there, I'm Nitesh - aka [Nktech-Official][website] 👋 
 
 
-[![Website](https://img.shields.io/website?label=nktechnicals.ml&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
+[![Website](https://img.shields.io/website?label=NkTech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/Niteshk16279976?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnktech-official&screen_name=Niteshk16279976)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCTwFfEX-EBWe_6FB-ruhWuw?style=social)](https://www.youtube.com/channel/UCTwFfEX-EBWe_6FB-ruhWuw)
 
@@ -76,7 +76,7 @@
 <img align="left" alt="Nktech Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nktech-official&show_icons=true&hide_border=false&title_color=green&icon_color=79ff97&%20text_color=green&bg_color=transparent" />
 
 
-[website]: https://www.nktechnicals.ml
+[website]: https://nktech.herokuapp.com/
 
 [twitter]: https://twitter.com/Niteshk16279976
 [youtube]: https://www.youtube.com/channel/UCTwFfEX-EBWe_6FB-ruhWuw
