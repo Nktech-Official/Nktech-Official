@@ -93,7 +93,7 @@
 [![@nktechofficial's Holopin board](https://holopin.io/api/user/board?user=nktechofficial)](https://holopin.io/@nktechofficial)
 
 
-[website]: https://nktech.herokuapp.com/
+[website]: https://nktech-official.tech/
 
 [twitter]: https://twitter.com/Niteshk16279976
 [youtube]: https://www.youtube.com/channel/UCTwFfEX-EBWe_6FB-ruhWuw
