@@ -75,6 +75,23 @@
 
 <img align="left" alt="Nktech Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nktech-official&show_icons=true&theme=tokyonight" />
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+### Holopin Badge Board:
+
+[![@nktechofficial's Holopin board](https://holopin.io/api/user/board?user=nktechofficial)](https://holopin.io/@nktechofficial)
+
 
 [website]: https://nktech.herokuapp.com/
 
