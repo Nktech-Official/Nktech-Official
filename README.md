@@ -1,101 +1,51 @@
-### Hi there, I'm Nitesh - aka [Nktech-Official][website] 👋 
+<h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nktech-official&label=Profile%20views&color=0e75b6&style=flat" alt="nktech-official" /> </p>
 
-[![Website](https://img.shields.io/website?label=NkTech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/Niteshk16279976?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnktech-official&screen_name=Niteshk16279976)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCTwFfEX-EBWe_6FB-ruhWuw?style=social)](https://www.youtube.com/channel/UCTwFfEX-EBWe_6FB-ruhWuw)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nktech-official" alt="nktech-official" /></a> </p>
 
-## I'm a  Developer, Coder, & Student!!
+<p align="left"> <a href="https://twitter.com/niteshk16279976" target="blank"><img src="https://img.shields.io/twitter/follow/niteshk16279976?logo=twitter&style=for-the-badge" alt="niteshk16279976" /></a> </p>
 
-<!-- - 🔭  -->
-- 👋 Hi, I’m Nitesh Kumar , 1st Year B.Tech Student
-- 🌱 I’m currently learning Web-Development.
-- 👯 I’m looking to collaborate with other Open Source Developer's and organizations.
-- ⚡ Fun fact: I love to Code , Sleep and Develop. 
-- 🥅 2022 Goals: Contribute more to Open Source projects and Start New Open Source Projects.
-<!-- - 💞️ I’m currently working on  . -->
+- 🔭 I’m currently working on [Message Hub](https://github.com/nktech-official/message)
 
+- 🌱 I’m currently learning **React-Native**
 
-### Connect with me:
+- 👯 I’m looking to collaborate on [Wave](https://github.com/nktech-official/wave)
 
+- 🤝 I’m looking for help with [Blox Smash](https://github.com/Nktech-Official/Blox-Smash)
 
-[<img align="left" alt="codeSTACKr | YouTube" width="30px" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" />][youtube]
+- 👨‍💻 All of my projects are available at [https://nktech-official.tech](https://nktech-official.tech)
 
-[<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://www.logo.wine/a/logo/Twitter/Twitter-Logo.wine.svg" />][twitter]
+- 💬 Ask me about **React, C++ and Python**
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" />][linkedin]
+- 📫 How to reach me **nk.technical.org@gmail.com**
 
-[<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />][instagram]
+- 📄 Know about my experiences [https://nktech-official.tech/assets/resume.pdf](https://nktech-official.tech/assets/resume.pdf)
 
-<br />
+- ⚡ Fun fact **I am alive.**
 
-### Languages and Tools:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/nktechofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nktechofficial" height="30" width="40" /></a>
+<a href="https://twitter.com/niteshk16279976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niteshk16279976" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nitesh-kumar-8a6651221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitesh-kumar-8a6651221" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15604511/nitesh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15604511/nitesh-kumar" height="30" width="40" /></a>
+<a href="https://fb.com/100056204433657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100056204433657" height="30" width="40" /></a>
+<a href="https://instagram.com/nitesh.kumar.mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitesh.kumar.mishra" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nktechofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nktechofficial" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/niteshkumar93566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="niteshkumar93566" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/nk.technical.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nk.technical.org" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nktech-official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nktech-official" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@nktech-official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nktech-official" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/nktechnicalorg/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nktechnicalorg/profile" height="30" width="40" /></a>
+</p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nktech-official&show_icons=true&locale=en&layout=compact" alt="nktech-official" /></p>
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nktech-official&show_icons=true&locale=en" alt="nktech-official" /></p>
 
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-
-<img align="left" alt="GitHub" width="26px" src="https://i.ibb.co/By1XPhs/filename-1.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://www.herokucdn.com/favicon.ico" />
-
-<img align="left" alt="Terminal" width="26px" src="https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png" />
-
-<br />
-<br />
-
----
-### Github Stats:
-<img align="left" alt="Nktech Github Stats" src="https://github-readme-stats.vercel.app/api?username=nktech-official&show_icons=true&theme=tokyonight" />
-
-<img align="left" alt="Nktech Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nktech-official&show_icons=true&theme=tokyonight" />
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-### Holopin Badge Board:
-
-[![@nktechofficial's Holopin board](https://holopin.io/api/user/board?user=nktechofficial)](https://holopin.io/@nktechofficial)
-
-
-[website]: https://nktech-official.tech/
-
-[twitter]: https://twitter.com/Niteshk16279976
-[youtube]: https://www.youtube.com/channel/UCTwFfEX-EBWe_6FB-ruhWuw
-[instagram]: https://www.instagram.com/nitesh.kumar.mishra/
-[linkedin]: https://www.linkedin.com/in/nitesh-kumar-8a6651221
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nktech-official&" alt="nktech-official" /></p>
