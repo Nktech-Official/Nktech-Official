@@ -49,3 +49,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nktech-official&show_icons=true&locale=en" alt="nktech-official" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nktech-official&" alt="nktech-official" /></p>
+<br/>
+
+---
+
+### Holopin Badge:- 
+
+[![@nktechofficial's Holopin board](https://holopin.io/api/user/board?user=nktechofficial)](https://holopin.io/@nktechofficial)
