@@ -12,6 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nktech-official&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nktech-official&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# Badges:
+[![An image of @nktechofficial's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nktechofficial)](https://holopin.io/@nktechofficial)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nktech-official&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
