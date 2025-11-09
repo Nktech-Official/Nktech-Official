@@ -1,7 +1,6 @@
 # 💫 About Me:
  I’m currently working on improving DSA & Problem Solving skills<br><br>🌱 I’m currently learning NextJs, Typescript & DSA<br><br>👯 I’m looking to collaborate on Paymesh<br><br>👨‍💻 All of my projects are available at https://nktech-portfolio.web.app/<br><br>💬 Ask me about React /, C++ and Python<br><br>📫 How to reach me nk.technical.org@gmail.com<br><br>📄 Know about my experiences https://nktech-official.tech/assets/resume.pdf
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitesh-kumar-8a6651221) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15604511) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Niteshk16279976) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCItRHlfwQVEVbQj1bQqN9pA) 
 
@@ -14,6 +13,10 @@
 
 # Badges:
 [![An image of @nktechofficial's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nktechofficial)](https://holopin.io/@nktechofficial)
+
+## 🧠 TryHackMe Progress
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/nktech.png)](https://tryhackme.com/p/nktech)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nktech-official&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
